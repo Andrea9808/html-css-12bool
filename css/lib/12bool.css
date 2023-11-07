@@ -16,6 +16,16 @@
    flex: 0 0 auto;
 }
 
+.around{
+    display: flex;
+    justify-content: space-around;
+}
+
+.between{
+    display: flex;
+    justify-content: space-between;
+}
+
 /* 12 col */
 
 .col-1{
