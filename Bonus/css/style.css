@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(63, 63, 214);
+    border: 1px solid white;
+    height: 40px;
+}
+
+
+
+.green{
+    background-color: greenyellow;
+    border: 1px solid rgb(63, 63, 214);
+}
+
+.nested{
+    background-color: rgb(63, 63, 214);
+    padding: 5px;
+    color: white;
+}
+
+.vspace
+{
+    margin-top: 20px;
+}
+
+.big{
+    padding: 50px;
+}
+
+.center{
+    align-self: center;
+}
+
+.bottom{
+    align-self: end;
+}
+
+
