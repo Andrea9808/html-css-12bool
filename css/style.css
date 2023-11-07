@@ -8,14 +8,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-
-[class*="col-"]{
     background-color: rgb(63, 63, 214);
     border: 1px solid white;
     height: 40px;
 }
+
 
 
 .green{
@@ -39,12 +36,10 @@
 }
 
 .center{
-    display: flex;
     align-self: center;
 }
 
 .bottom{
-    display: flex;
     align-self: end;
 }
 
